@@ -1,5 +1,5 @@
 numbers = input().split()
 answers = input().split()
-numberset = set(numbers)
-answerset = set(answers)
-print(answerset == numberset)
+number_set = set(numbers)
+answer_set = set(answers)
+print(answer_set == number_set)
