@@ -14,4 +14,4 @@ n = len(integer_)
 total = 0
 for i in integer_:
     total = total + i
-print(total/n)
+print(total / n)
